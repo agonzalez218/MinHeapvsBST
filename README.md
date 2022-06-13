@@ -1,4 +1,4 @@
-# MinHeapvsBST
+# MinHeapvsBST | April 2020
 This program compares how quickly these two structures, min heap and binary search tree, find the minimum value from different sets of test data.
 
 The following screen is an example of the application running:
